@@ -1,7 +1,3 @@
-# componentes
-
-Sergio Pinilla .
-
-## Getting Started
+# Sergio Pinilla
 
 Ejemplos de componentes basicos en flutter 
